@@ -1,0 +1,14 @@
+*.py[cod]
+.DS_Store
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Codekit
+config.codekit
+
+# Pycharm
+/.idea/
+.idea/
+
